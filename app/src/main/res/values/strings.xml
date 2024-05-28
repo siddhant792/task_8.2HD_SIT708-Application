@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Llama Lingua</string>
+    <string-array name="languages_array">
+        <item>Spanish</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Hindi</item>
+        <item>Italian</item>
+        <item>Chinese</item>
+        <item>Japanese</item>
+        <item>Korean</item>
+        <item>Portuguese</item>
+        <item>Russian</item>
+        <item>Arabic</item>
+    </string-array>
+</resources>
